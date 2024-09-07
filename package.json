@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "rsbuild",
+    "dev": "rsbuild dev",
     "build": "tsc -b && rsbuild build",
     "preview": "rsbuild preview",
     "lint": "eslint ."
