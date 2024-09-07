@@ -19,3 +19,10 @@ npm add @rsbuild/plugin-react -D
   }
 }
 ```
+
+## Remove inject script from html
+
+```html
+- <script type="module" src="/src/main.ts"></script>
+```
+
